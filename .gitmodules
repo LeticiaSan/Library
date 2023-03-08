@@ -1,0 +1,9 @@
+[submodule "LibraryGateway"]
+	path = LibraryGateway
+	url = https://github.com/LeticiaSan/LibraryGateway.git
+[submodule "LibraryInterface"]
+	path = LibraryInterface
+	url = https://github.com/LeticiaSan/LibraryInterface.git
+[submodule "LibraryDataPersistence"]
+	path = LibraryDataPersistence
+	url = https://github.com/LeticiaSan/LibraryDataPersistence.git
